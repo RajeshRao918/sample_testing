@@ -1,0 +1,6 @@
+The PingFederate server provides IT organizations with the tools they require for high-integrity identity security. It allows you to keep identities and passwords where they belong while ensuring that users have access to the applications and information they need to get work done. The PingFederate server allows IT administrators to:
+Centralize control over identities and authentication.
+Implement advanced authentication policies allowing multiple sources.
+Standardize user provisioning and de-provisioning.
+Monitor and audit usage for governance and compliance.
+Develop custom administration services using extensive admin APIs.
