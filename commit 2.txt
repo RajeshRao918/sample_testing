@@ -1,0 +1,8 @@
+Flexible security for today’s API economy
+With the PingFederate server, you can:
+Integrate with your existing identity stores, cloud directories or social identity providers.
+Make dynamic access decisions based on device, location, time of day or other contextual data.
+Authenticate users with relevant data from several data stores or identity systems.
+Easily create sophisticated rules to make access decisions based on identity attributes, group memberships or authentication methods.
+Protect both your web applications and APIs with standard protocols like SAML, OAuth and OpenID Connect.
+Provide advanced federation protocol aggregation and translation.
