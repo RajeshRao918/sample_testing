@@ -5,4 +5,5 @@ Make dynamic access decisions based on device, location, time of day or other co
 Authenticate users with relevant data from several data stores or identity systems.
 Easily create sophisticated rules to make access decisions based on identity attributes, group memberships or authentication methods.
 Protect both your web applications and APIs with standard protocols like SAML, OAuth and OpenID Connect.
-Provide advanced federation protocol aggregation and translation.
+Provide advanced federation protocol aggregaAAtion and translation.
+jdg bjkbfxkj xzbcuhnjgkas fhxfu
